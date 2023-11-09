@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "cavesofwonders:papyrus_frond"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cavesofwonders:papyrus_paper",
+    "count": 3
+  }
+
+}

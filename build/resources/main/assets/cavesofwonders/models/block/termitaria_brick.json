@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cavesofwonders:block/termitaria_brick"
+  }
+}
